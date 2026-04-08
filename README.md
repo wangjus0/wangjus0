@@ -1,19 +1,9 @@
-<h1 align="left">Hey, I'm Justin 👋</h1>
-<p align="left">
-  I build thoughtful software at the intersection of <b>math</b>, <b>systems</b>, and <b>product</b>.
-</p>
+<h1 align="center">Hey, I'm Justin 👋</h1>
 
-<p align="left">
-  <a href="https://github.com/wangj000?tab=followers"><img src="https://img.shields.io/github/followers/wangj000?style=for-the-badge&label=Followers&color=1f6feb" /></a>
+<p align="center">
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI-0b7285?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-San%20Diego-2b8a3e?style=for-the-badge" />
 </p>
-
----
-
-## /about
-
-I'm currently focused on building pragmatic backend and AI systems that are fast, reliable, and easy to iterate on.
 
 ---
 
@@ -31,8 +21,8 @@ I'm currently focused on building pragmatic backend and AI systems that are fast
 ## /now
 
 - Shipping features for **Murmur**
-- Going deeper on **Go + TypeScript** patterns
-- Improving architecture for cleaner iteration loops
+- Building **TritonSchedule**
+- Learning more about SDE
 
 ---
 
