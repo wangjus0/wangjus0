@@ -1,6 +1,6 @@
 <h1 align="left">Hey, I'm Justin 👋</h1>
 <p align="left">
-  Building thoughtful software at the intersection of <b>math</b>, <b>systems</b>, and <b>product</b>.
+  I build thoughtful software at the intersection of <b>math</b>, <b>systems</b>, and <b>product</b>.
 </p>
 
 <p align="left">
@@ -11,35 +11,41 @@
 
 ---
 
-## /dashboard
+## /about
 
-| Signal | Value |
-|---|---|
-| **Current Build** | `Murmur` |
-| **Current Role** | `SWE Intern @ Ark Marketing` |
-| **Education** | `Math-CS @ UC San Diego` |
-| **Open To** | `Collabs, internships, ambitious side projects` |
+I'm currently focused on building pragmatic backend and AI systems that are fast, reliable, and easy to iterate on.
 
 ---
 
-## /stack
+## /dashboard
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=py,go,js,ts,java,html,css)](https://skillicons.dev)
-
-### Frameworks & Runtime
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
-
-### Tools
-[![Tools](https://skillicons.dev/icons?i=neovim,git,apple)](https://skillicons.dev)
+| Signal | Value |
+| --- | --- |
+| **Current Build** | `Murmur` |
+| **Current Role** | `SWE Intern @ Ark Marketing` |
+| **Education** | `Math-CS @ UC San Diego` |
+| **Open To** | `Collaborations, internships, and ambitious side projects` |
 
 ---
 
 ## /now
 
 - Shipping features for **Murmur**
-- Learning deeper **Go + TypeScript** patterns
-- Optimizing for clean architecture and fast iteration
+- Going deeper on **Go + TypeScript** patterns
+- Improving architecture for cleaner iteration loops
+
+---
+
+## /stack
+
+### Languages
+[![Languages](https://skillicons.dev/icons?i=py,go,js,ts,java,html,css)](https://skillicons.dev)
+
+### Frameworks & Runtime
+[![Frameworks and Runtime](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
+
+### Tools
+[![Tools](https://skillicons.dev/icons?i=neovim,git,apple)](https://skillicons.dev)
 
 ---
 
