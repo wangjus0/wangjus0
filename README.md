@@ -18,14 +18,6 @@
 
 ---
 
-## /now
-
-- Shipping features for **Murmur**
-- Building **TritonSchedule**
-- Learning more about SDE
-
----
-
 ## /stack
 
 ### Languages
@@ -36,11 +28,3 @@
 
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=neovim,git,apple)](https://skillicons.dev)
-
----
-
-## /connect
-
-<p>
-  <a href="https://github.com/wangj000">GitHub</a>
-</p>
