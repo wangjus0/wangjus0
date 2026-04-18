@@ -7,7 +7,7 @@
 
 | Signal | Value |
 | --- | --- |
-| **Current Build** | `Murmur` |
-| **Current Role** | `SWE Intern @ Ark Marketing` |
+| **Current Build** | `Murmur, Autodoc` |
+| **Current Role** | `Incoming SWE Intern @ T-Mobile, SWE Intern @ Ark Marketing` |
 | **Education** | `Math-CS @ UC San Diego` |
 | **Open To** | `Collaborations, internships, and ambitious side projects` |
