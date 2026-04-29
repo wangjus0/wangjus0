@@ -4,10 +4,3 @@
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-San%20Diego-2b8a3e?style=for-the-badge" />
 </p>
-
-| Signal | Value |
-| --- | --- |
-| **Current Build** | `Murmur, Autodoc` |
-| **Current Role** | `Incoming SWE Intern @ T-Mobile, SWE Intern @ Ark Marketing` |
-| **Education** | `Math-CS @ UC San Diego` |
-| **Open To** | `Collaborations, internships, and ambitious side projects` |
