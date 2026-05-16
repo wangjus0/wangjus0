@@ -24,9 +24,15 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
+        env:
+          REPO: ${{ github.repository }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
+          git diff --staged --quiet || git commit -m "Update README cards"
+          SHA=$(git rev-parse HEAD)
+          sed -i "s|src=\"[^\"]*profile/stats.svg[^\"]*\"|src=\"https://raw.githubusercontent.com/${REPO}/main/profile/stats.svg?v=${SHA}\"|" README.md
+          git add README.md
+          git diff --staged --quiet || git commit -m "Bust stats image cache in README"
           git push

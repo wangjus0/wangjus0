@@ -3,5 +3,8 @@
 </div>
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="Justin's GitHub Stats" />
+  <img
+    src="https://raw.githubusercontent.com/wangjus0/wangjus0/main/profile/stats.svg?v=847e6df"
+    alt="Justin's GitHub Stats"
+  />
 </p>
