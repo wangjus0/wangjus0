@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/wangjus0/wangjus0/main/profile/stats.svg?v=00ebde4214c1632e57f8244613d2844cc855fd57"
+    src="https://raw.githubusercontent.com/wangjus0/wangjus0/main/profile/stats.svg?v=0f230cc1489a239100dfc131cd45771b97c0ba4a"
     alt="Justin's GitHub Stats"
   />
 </p>
